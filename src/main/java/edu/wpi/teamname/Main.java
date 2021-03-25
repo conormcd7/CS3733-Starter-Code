@@ -20,9 +20,12 @@ public class Main {
     System.out.println("Frank McShan");
     System.out.println("Patrick Mejia");
     System.out.println("Ryan Luu");
-    System.out.println("Branch - Ryan Luu");
     System.out.println("Samuel Kwok");
     System.out.println("Alex mitchell");
+  }
+
+  public static void ryanBranch(){
+    System.out.println("Branch - Ryan Luu");
   }
 
   public static void harrisonBranch(){
