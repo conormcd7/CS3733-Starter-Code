@@ -20,4 +20,8 @@ public class Main {
     System.out.println("Ryan Luu");
     System.out.println("Samuel Kwok");
   }
+
+  public static void kwokBranch() {
+    System.out.println("Branch - Samuel Kwok");
+  }
 }
