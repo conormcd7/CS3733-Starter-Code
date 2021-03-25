@@ -30,8 +30,13 @@ public class Main {
     System.out.println("Team Coach: Michael Clements");
   }
 
+  public static void PatrickBranch() {
+    System.out.println("Branch-Patrick Mejia");
+  }
+
   public static void AlexBranch(){
     System.out.println("Branch - Alex Mitchell");
   }
 
 }
+
