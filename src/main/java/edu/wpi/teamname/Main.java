@@ -15,7 +15,9 @@ public class Main {
     System.out.println("Harrison Kyriacou");
     System.out.println("Bernhard Nordemann");
     System.out.println("Patrick Mejia");
-    System.out.println("Branch-PatrickMejia");
     System.out.println("Team Coach: Michael Clements");
+  }
+  public static void PatrickBranch(){
+    System.out.println("Branch-Patrick Mejia");
   }
 }
